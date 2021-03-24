@@ -3,11 +3,11 @@ Quantumult X中青看点全套薅羊毛脚本
 🔘 添加定时任务
 编辑配置文件，在[task_local]下粘贴Task脚本
 # 中青看点签到 & 开转盘宝箱&阅读时长
-10 */1 * * * https://raw.githubusercontent.comert/Scripts/master/Task/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true
+10 */1 * * * https://raw.githubusercontent.comert/Scripts/master/Task/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true
 # 中青自动阅读
-10 */2 * * * https://raw.githubusercontent.comert/Scripts/master/Task/Youth_Read.js, tag=中青看点自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true
+10 */2 * * * https://raw.githubusercontent.comert/Scripts/master/Task/Youth_Read.js, tag=中青看点自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true
 # 中青看点浏览赚 & 看看赚
-30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true
+30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true
 
 🔘 添加远程重写订阅
 编辑配置文件，在[rewrite_remote]下粘贴重写订阅

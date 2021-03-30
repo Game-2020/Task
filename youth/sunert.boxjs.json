@@ -85,21 +85,6 @@
     {
       "author": "@sunert", 
       "keys": [
-        "youth_start", 
-        "youth_look"
-      ], 
-      "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth_gain.js", 
-      "id": "youthGain", 
-      "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js", 
-      "name": "中青浏览赚&看看赚", 
-      "icons": [
-        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
-        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
-      ]
-    }, 
-    {
-      "author": "@sunert", 
-      "keys": [
         "youth_autoread", 
         "autotime_zq"
       ], 

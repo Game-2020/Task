@@ -1,8 +1,8 @@
 {
   "id": "ztxtop.script.sub",
-  "name": "中青合集自用",
+  "name": "中青看点",
   "author": "@",
-  "icon": "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png",
+  "icon": "https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png",
   "repo": "https://github.com/whymm",
   "apps": [{
       "id": "youthCk",
@@ -39,7 +39,7 @@
         "desc": "设置中青的执行账号，多个账号用半角逗号分隔，如：1,2,4"
       }],
       "repo": "https://github.com/ztxtop/x/blob/main/youth.js",
-      "icons": ["https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png", "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png"],
+      "icons": ["https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png"],
       "script": "https://raw.githubusercontent.com/ztxtop/x/main/youth.js"
     },
     {
@@ -104,7 +104,7 @@
         "desc": "账号4阅读数据总行数"
       }],
       "repo": "https://github.com/ztxtop/x/blob/main/zqread.js",
-      "icons": ["https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png", "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png"],
+      "icons": ["https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png", "https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png"],
       "script": "https://raw.githubusercontent.com/ztxtop/x/main/youth.js",
       "scripts": [{
         "name": "自动阅读",
@@ -184,14 +184,14 @@
       ], 
       "name": "中青看点", 
       "icons": [
-        "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png", 
-        "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png"
+        "https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png", 
+        "https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png"
       ]
     }, 
     {
       "icons": [
-        "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png", 
-        "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png"
+        "https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png", 
+        "https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png"
       ]
     }, 
     {
@@ -214,8 +214,8 @@
       "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js", 
       "name": "中青自动阅读", 
       "icons": [
-        "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png", 
-        "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png"
+        "https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png", 
+        "https://raw.githubusercontent.com/Game-2020/Task/main/youth/youth.png"
       ]
     }
  ]

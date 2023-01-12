@@ -1,7 +1,7 @@
 /*******************************
-hostname :app.ilovechina.tech
+hostname : app.ilovechina.tech
 
-重写链接：^https:\/\/app\.ilovechina\.tech\/api\.php?go=getuser
+重写链接：^https:\/\/app\.ilovechina\.tech\/api\.php?go=getuser url script-response-body https://raw.githubusercontent.com/Game-2020/Task/main/if.js
 *******************************/
 var body=$response.body;
 body = body.replace(/"endtime\":"2023-01-14"/g,'"endtime":"2222-12-12"');

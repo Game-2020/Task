@@ -1,0 +1,9 @@
+/*******************************
+hostname :app.ilovechina.tech
+
+重写链接：^https:\/\/app\.ilovechina\.tech\/api\.php?go=getuser
+*******************************/
+var body=$response.body;
+body = body.replace(/"endtime\":"2023-01-14"/g,'"endtime":"2222-12-12"');
+body = body.replace(/"state\":"1"/g,'"state":"1"');
+$done(body);

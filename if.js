@@ -1,7 +1,7 @@
 /*
 ^https:\/\/app\.ilovechina\.tech\/api\.php? url script-response-body https://raw.githubusercontent.com/Game-2020/Task/main/if.js
 
-MITM = app.ilovechina.tech
+hostname = app.ilovechina.tech
 */
 
 var body=$response.body;
